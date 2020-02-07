@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahliejahpa.enki-editor.org/sitemap.xml
